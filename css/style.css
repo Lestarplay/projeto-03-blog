@@ -35,7 +35,7 @@ body{
     color: #718096;
     line-height: 1.6;
 }
-@media screen and (min-heigt: 500px) {
+@media screen and (max-heigt: 500px) {
     .post-card{
         flex-direction: row-reverse;
     }
